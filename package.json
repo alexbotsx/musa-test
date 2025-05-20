@@ -1,5 +1,5 @@
 {
-    "name": "Alexnn",
+    "name": "Musabot",
     "version": "2.0.7",
     "description": "Simple WhatsApp Bot Multi Device",
     "main": "index.js",
@@ -18,20 +18,20 @@
         "eslint": "eslint .",
         "eslintfix": "eslint --fix ."
     },
-    "homepage": "https://github.com/Adrianmaze/Alexnn",
+    "homepage": "https://github.com/Adrianmaze/Musabot",
     "author": {
-        "name": "Alexnn"
+        "name": "Musabot"
     },
     "collaborators": {
-        "col1": "@Alexnn",
+        "col1": "@Musabot",
         "col2": "@Anuar"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Adrianmaze/Alexnn.git"
+        "url": "git+https://github.com/Adrianmaze/Musabot.git"
     },
     "bugs": {
-        "url": "https://github.com/Adrianmaze/Alexnn/issues"
+        "url": "https://github.com/Adrianmaze/Musabot/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
