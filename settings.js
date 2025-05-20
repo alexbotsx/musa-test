@@ -48,7 +48,7 @@ global.languaje = 'Español'
 global.nameqr = 'Sisked-x'
 global.namebot = '@MUSABOT'
 global.sessions = 'MusaBotSession'
-global.jadi = 'MusaJadiBot'
+global.jadi = 'MusabotJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
